@@ -1,0 +1,38 @@
+_repo: Sunny-Boy-at-the-seashore_71793
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wrenn, Charles L. (Charles Lewis)
+    birthdate: 1880
+    deathdate: 1952
+    gutenberg_agent_id: '25468'
+    url: http://www.gutenberg.org/2009/agents/25468
+creator:
+  author:
+    agent_name: White, Ramy Allison
+    gutenberg_agent_id: '7681'
+    url: http://www.gutenberg.org/2009/agents/7681
+description: ''
+gutenberg_issued: '2023-10-03'
+identifiers:
+  gutenberg: '71793'
+language: en
+pgterms:marc904: https://www.google.com/books/edition/Sunny_Boy_At_The_Seashore/jELGjwEACAAJ?hl=en
+pgterms:marc905: 20230625112755white
+pgterms:marc906: '1920'
+pgterms:marc907: us
+production_note: Bob Taylor, David Edwards and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: '  $aNew York :$bGrosset & Dunlap, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Seashore -- Juvenile fiction'
+- !lcsh 'Summer -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Sunny Boy at the seashore
+url: http://www.gutenberg.org/ebooks/71793
