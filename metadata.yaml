@@ -7,12 +7,17 @@ contributor:
     deathdate: 1952
     gutenberg_agent_id: '25468'
     url: http://www.gutenberg.org/2009/agents/25468
+covers:
+- cover_type: archival
+  image_path: 71793-h/images/cover.jpg
 creator:
   author:
     agent_name: White, Ramy Allison
     gutenberg_agent_id: '7681'
     url: http://www.gutenberg.org/2009/agents/7681
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71793#Sunny-Boy-at-the-seashore
 gutenberg_issued: '2023-10-03'
 identifiers:
   gutenberg: '71793'
